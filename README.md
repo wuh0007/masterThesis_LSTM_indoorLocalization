@@ -29,4 +29,6 @@ Thesis : Autonomous RC Car + Wi-Fi Based Indoor Localization System
 
 ## Showcase
 
-![Figure_1](/image/Figure_1.png)
+Overview of autonomous indoor localization system.
+
+![Figure_1](/figure/thesis.pdf)
